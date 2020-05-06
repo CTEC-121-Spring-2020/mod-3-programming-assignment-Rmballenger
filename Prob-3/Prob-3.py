@@ -2,7 +2,7 @@
 #   Programming Assignment 4
 #     Prob-3.py
 
-# <YOUR NAME>
+# Robert Ballenger
 
 def letterGrade(score):
     # your code here
